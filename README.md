@@ -1,122 +1,25 @@
-<!-- ✨ Animated Header Banner -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/2a/3f/75/2a3f75f9e2efbcb0e62b5f5748b6b5c7.gif" width="100%" alt="AI Coder Banner"/>
-</p>
+<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00C0FF&center=true&vCenter=true&width=600&lines=Hey+there!+👋;I'm+Pranav+Kumar+Bandaram!;Full-Stack+Engineer+%7C+Problem+Solver+%7C+Tech+Enthusiast" alt="Typing intro" /> </h1>
+💻 Software Developer | Full-Stack Engineer | Problem Solver
 
-<h1 align="center">👋 Hey, I'm <span style="color:#00BFFF">Pranav Kumar Bandaram</span></h1>
+🚀 Passionate about building scalable, user-friendly applications.
+🎯 Exploring Web Development, Databases, and Algorithms.
 
-<p align="center">
-  💻 <b>Software Developer | Full-Stack Engineer | AI Enthusiast</b><br>
-  🚀 Passionate about creating intelligent, scalable, and user-focused applications.<br>
-  🧠 Exploring Artificial Intelligence, Web Technologies, and Database Systems.<br>
-  🌱 Continuously learning, building, and experimenting with new ideas.
-</p>
+🎬 About Me
+<p align="center"> <img src="https://github.com/Bitshifter-9/Bitshifter-9/assets/your-gif-id/developer-coding.gif" width="480" height="280" alt="developer animation"> </p>
+🌐 Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/pranav-kumar-bandaram/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:bandarampranav@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://portfolio-git-main-pranavs-projects-571017c0.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=vercel&logoColor=white"/> </a> </p>
+⚔️ Competitive Programming Profiles
+<p align="center"> <a href="https://codeforces.com/profile/Bit_shifter"> <img src="https://cp-logo.vercel.app/codeforces/Bit_shifter" alt="Codeforces rating"/> </a> <a href="https://www.codechef.com/users/bit_shifter_09"> <img src="https://cp-logo.vercel.app/codechef/bit_shifter_09" alt="CodeChef rating"/> </a> </p>
+📊 GitHub Stats & Streaks
+<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Bitshifter-9&show_icons=true&theme=tokyonight" /> <img width="48%" src="https://streak-stats.demolab.com?user=Bitshifter-9&theme=tokyonight&border_radius=5" /> </p>
+🧠 Languages & Tools
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,mongodb,postgresql,git,github,vscode,vercel" /> </p>
+🌈 GitHub Activity Graph
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bitshifter-9&theme=react-dark&bg_color=0d1117&hide_border=true&line=00bfff&point=00ffff" /> </p>
+🧩 Fun Animated Developer Banner
+<p align="center"> <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="600" alt="Coding Dino Animation"/> </p>
+💬 Quote of the Day
 
----
+“Code is like humor. When you have to explain it, it’s bad.” — Cory House
 
-## 💡 Dynamic Typing Animation  
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=500&center=true&vCenter=true&width=600&lines=AI+and+Web+Developer;Full+Stack+Engineer;Open+Source+Contributor;Competitive+Programmer;Tech+Explorer" alt="Typing SVG" />
-  </a>
-</p>
-
----
-
-## ⚙️ Tech Stack  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,python,mongodb,postgresql,git,github,vscode,docker,linux&theme=dark" />
-</p>
-
----
-
-## 🏆 Competitive Programming  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Codeforces-1178-orange?logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/CodeChef-1443-blueviolet?logo=codechef&logoColor=white" />
-</p>
-
-<p align="center">
-  ⚔️ Problem-solving enthusiast on <a href="https://codeforces.com/profile/Bit_shifter">Codeforces</a> and <a href="https://www.codechef.com/users/bit_shifter_09">CodeChef</a>.
-</p>
-
----
-
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bitshifter-9&show_icons=true&theme=tokyonight&count_private=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bitshifter-9&layout=compact&theme=tokyonight" height="165">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Bitshifter-9&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-## 🏅 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bitshifter-9&theme=onestar&column=7" />
-</p>
-
----
-
-## 🎞️ AI & Coding Animation  
-
-<p align="center">
-  <img src="https://i.gifer.com/3D3J.gif" width="75%" alt="AI Animation" />
-</p>
-
-<p align="center">
-  <i>"Turning ideas into intelligent code — where creativity meets computation."</i>
-</p>
-
----
-
-## 🌐 Connect with Me  
-
-<p align="center">
-  <a href="https://linkedin.com/in/pranav-kumar-bandaram"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:bandarampranav@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://portfolio-git-main-pranavs-projects-571017c0.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://github.com/Bitshifter-9"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-## 🪄 Contribution Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bitshifter-9&theme=tokyo-night" />
-</p>
-
----
-
-## 👀 Visitor Counter  
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bitshifter-9&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
-
----
-
-## ⚡ Inspirational Quote  
-
-> “The future belongs to those who can merge creativity with technology.” — *Pranav Kumar Bandaram*
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" />
-  <br>
-  <b>Thanks for visiting! Keep coding and keep dreaming 🚀</b>
-</p>
-
----
-
-⭐️ From [**Bitshifter-9**](https://github.com/Bitshifter-9)
+<p align="center"> <img src="https://img.shields.io/badge/Made%20with%20❤️%20by%20Pranav-ff69b4?style=for-the-badge"/> </p>
