@@ -28,9 +28,11 @@
   <a href="https://www.linkedin.com/in/pranav-kumar-bandaram/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="mailto:bandarampranav@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
   <a href="https://portfolio-git-main-pranavs-projects-571017c0.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
@@ -57,7 +59,7 @@
 ## 🌈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bitshifter-9&theme=react-dark&bg_color=0d1117&hide_border=true&line=00bfff&point=00ffff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bitshifter-9&custom_title=Nikhil%27s%20Contribution%20Graph&theme=react-dark&bg_color=0d1117&hide_border=true&line=00bfff&point=00ffff" width="100%" alt="Nikhil's GitHub Activity Graph" />
 </p>
 
 ---
