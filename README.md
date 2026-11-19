@@ -38,19 +38,6 @@
 
 ---
 
-## ⚔️ Competitive Programming Profiles
-
-<p align="center">
-  <a href="https://codeforces.com/profile/Bit_shifter">
-    <img src="https://cp-logo.vercel.app/codeforces/Bit_shifter" alt="Codeforces rating" />
-  </a>
-  <a href="https://www.codechef.com/users/bit_shifter_09">
-    <img src="https://cp-logo.vercel.app/codechef/bit_shifter_09" alt="CodeChef rating" />
-  </a>
-</p>
-
----
-
 ## 📊 GitHub Streak Stats
 
 <p align="center">
